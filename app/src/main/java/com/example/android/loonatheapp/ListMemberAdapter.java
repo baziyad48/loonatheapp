@@ -74,16 +74,16 @@ public class ListMemberAdapter extends RecyclerView.Adapter<ListMemberAdapter.Li
                         intent = new Intent(holder.layout_color.getContext(), Choerry.class);
                         break;
                     case 8 :
-                        intent = new Intent(holder.layout_color.getContext(), Heejin.class);
+                        intent = new Intent(holder.layout_color.getContext(), Yves.class);
                         break;
                     case 9 :
-                        intent = new Intent(holder.layout_color.getContext(), Heejin.class);
+                        intent = new Intent(holder.layout_color.getContext(), Chuu.class);
                         break;
                     case 10 :
-                        intent = new Intent(holder.layout_color.getContext(), Heejin.class);
+                        intent = new Intent(holder.layout_color.getContext(), Gowon.class);
                         break;
                     case 11 :
-                        intent = new Intent(holder.layout_color.getContext(), Heejin.class);
+                        intent = new Intent(holder.layout_color.getContext(), OliviaHye.class);
                         break;
                 }
                 holder.layout_color.getContext().startActivity(intent);

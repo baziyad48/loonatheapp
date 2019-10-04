@@ -14,7 +14,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="500dp"
-            android:src="@drawable/heejin_pp"
+            android:src="@drawable/gowon_pp"
             android:scaleType="centerCrop"
             android:layout_marginBottom="16dp"/>
 
@@ -27,7 +27,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Heejin"
+                android:text="Gowon"
                 android:textStyle="bold"
                 android:textSize="24sp"
                 android:textAllCaps="true"
@@ -36,7 +36,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="(희진)"
+                android:text="(고원)"
                 android:textSize="16sp"/>
 
         </LinearLayout>
@@ -60,7 +60,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="Jeon Hee-jin"/>
+                    android:text="Park Chae-won"/>
 
             </TableRow>
 
@@ -79,7 +79,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="October 19, 2000"/>
+                    android:text="November 19th, 2000"/>
 
             </TableRow>
 
@@ -98,7 +98,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="Main Dancer, Lead Vocalist, Visual, Center"/>
+                    android:text="Lead Rapper, Lead Dancer, Vocalist"/>
 
             </TableRow>
 
@@ -117,7 +117,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="Libra"/>
+                    android:text="Scorpio"/>
 
             </TableRow>
 
@@ -174,7 +174,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="LООПΔ 1/3"/>
+                    android:text="yyxy"/>
 
             </TableRow>
             <TableRow
@@ -192,8 +192,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="Bright Pink"
-                    android:textColor="#ED008E"/>
+                    android:text="Eden Green"
+                    android:textColor="#02BCA1"/>
 
             </TableRow>
 
@@ -212,13 +212,11 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="Rabbit"/>
+                    android:text="Emperor Butterfly"/>
 
             </TableRow>
 
         </TableLayout>
-
-
 
     </LinearLayout>
 

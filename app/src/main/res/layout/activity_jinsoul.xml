@@ -14,7 +14,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="500dp"
-            android:src="@drawable/kim_lip_pp"
+            android:src="@drawable/jinsoul_pp"
             android:scaleType="centerCrop"
             android:layout_marginBottom="16dp"/>
 
@@ -59,12 +59,6 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text=":"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:text="Jung Jin-soul"/>
 
@@ -80,12 +74,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:text="Birthday"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text=":"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -109,12 +97,6 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text=":"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:text="Main Rapper, Lead Vocalist, Visual"/>
 
@@ -130,12 +112,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:text="Zodiac"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text=":"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -159,12 +135,6 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text=":"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:text="Korean"/>
 
@@ -180,12 +150,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:text="Blood Type"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text=":"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -209,12 +173,6 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text=":"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:text="Odd Eye Circle"/>
 
@@ -229,12 +187,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:text="Representative Color"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text=":"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -255,12 +207,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
                     android:text="Representative Animal"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text=":"/>
 
                 <TextView
                     android:layout_width="wrap_content"

@@ -14,7 +14,7 @@
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="500dp"
-            android:src="@drawable/heejin_pp"
+            android:src="@drawable/yves_pp"
             android:scaleType="centerCrop"
             android:layout_marginBottom="16dp"/>
 
@@ -27,7 +27,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Heejin"
+                android:text="Yves"
                 android:textStyle="bold"
                 android:textSize="24sp"
                 android:textAllCaps="true"
@@ -36,7 +36,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="(희진)"
+                android:text="(이브)"
                 android:textSize="16sp"/>
 
         </LinearLayout>
@@ -60,7 +60,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="Jeon Hee-jin"/>
+                    android:text="Ha Soo-young"/>
 
             </TableRow>
 
@@ -79,7 +79,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="October 19, 2000"/>
+                    android:text="May 24th, 1997"/>
 
             </TableRow>
 
@@ -98,7 +98,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="Main Dancer, Lead Vocalist, Visual, Center"/>
+                    android:text="Main Dancer, Lead Vocalist"/>
 
             </TableRow>
 
@@ -117,7 +117,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="Libra"/>
+                    android:text="Gemini"/>
 
             </TableRow>
 
@@ -155,7 +155,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="A"/>
+                    android:text="B"/>
 
             </TableRow>
 
@@ -174,7 +174,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="LООПΔ 1/3"/>
+                    android:text="yyxy"/>
 
             </TableRow>
             <TableRow
@@ -192,8 +192,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="Bright Pink"
-                    android:textColor="#ED008E"/>
+                    android:text="Burgundy"
+                    android:textColor="#790105"/>
 
             </TableRow>
 
@@ -212,7 +212,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="2"
-                    android:text="Rabbit"/>
+                    android:text="Swan"/>
 
             </TableRow>
 

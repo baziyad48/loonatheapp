@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Choerry"></activity>
+        <activity android:name=".OliviaHye"></activity>
+        <activity android:name=".Gowon" />
+        <activity android:name=".Chuu" />
+        <activity android:name=".Yves" />
+        <activity android:name=".Choerry" />
         <activity android:name=".Jinsoul" />
         <activity android:name=".KimLip" />
         <activity android:name=".Vivi" />
